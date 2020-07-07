@@ -1,6 +1,6 @@
 {
-"name": "KOPISingapore",
-"description": "Dedicated staking in Singapore",
-"ticker": "KOPI",
-"homepage": "https://kopipool.com"
+  "name": "KOPISingapore",
+  "ticker": "KOPI",
+  "description": "Dedicated staking in Singapore",
+  "homepage": "https://kopipool.com"
 }
